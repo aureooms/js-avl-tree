@@ -1,5 +1,5 @@
 {
-  "name": "@aureooms/js-bst",
+  "name": "@aureooms/js-avl-tree",
   "description": "Binary search tree data structure library for JavaScript",
   "version": "3.0.0",
   "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
@@ -74,7 +74,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/aureooms/js-bst/issues"
+    "url": "https://github.com/aureooms/js-avl-tree/issues"
   },
   "dependencies": {},
   "devDependencies": {
@@ -103,7 +103,7 @@
   "files": [
     "lib"
   ],
-  "homepage": "https://aureooms.github.io/js-bst",
+  "homepage": "https://aureooms.github.io/js-avl-tree",
   "keywords": [
     "adt",
     "algorithm",
@@ -126,7 +126,7 @@
   "license": "AGPL-3.0",
   "main": "lib/index.js",
   "repository": {
-    "url": "https://github.com/aureooms/js-bst.git",
+    "url": "https://github.com/aureooms/js-avl-tree.git",
     "type": "git"
   },
   "scripts": {

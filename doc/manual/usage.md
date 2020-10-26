@@ -9,7 +9,7 @@ import 'regenerator-runtime/runtime' ;
 
 Then
 ```js
-const bst = require( '@aureooms/js-bst' ) ;
+const bst = require( '@aureooms/js-avl-tree' ) ;
 // or
-import bst from '@aureooms/js-bst' ;
+import bst from '@aureooms/js-avl-tree' ;
 ```
