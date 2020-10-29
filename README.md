@@ -1,14 +1,17 @@
 :balance_scale: [@aureooms/js-avl-tree](https://aureooms.github.io/js-avl-tree)
 ==
 
-<figure>
+<p align="center">
 <a href="https://commons.wikimedia.org/wiki/File:AVL-tree-wBalance_K.svg">
-<img alt="AVL tree with balance factors" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AVL-tree-wBalance_K.svg" width="864">
+<img alt="AVL tree with balance factors" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AVL-tree-wBalance_K.svg" width="600">
+</a><br/>
+<a href="https://commons.wikimedia.org/w/index.php?title=User:Nomen4Omen)">
+User:Nomen4Omen
 </a>
-  
-*Attribution: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
-by
-[Wikipedia user Nomen4Omen](https://commons.wikimedia.org/w/index.php?title=User:Nomen4Omen).*
+/
+<a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>
+</p>
+
 
 AVL trees for JavaScript.
 See [docs](https://aureooms.github.io/js-avl-tree).
