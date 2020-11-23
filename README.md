@@ -5,7 +5,7 @@
 <a href="https://commons.wikimedia.org/wiki/File:AVL-tree-wBalance_K.svg">
 <img alt="AVL tree with balance factors" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/AVL-tree-wBalance_K.svg" width="600">
 </a><br/>
-<a href="https://commons.wikimedia.org/w/index.php?title=User:Nomen4Omen)">
+<a href="https://commons.wikimedia.org/w/index.php?title=User:Nomen4Omen">
 User:Nomen4Omen
 </a>
 /
